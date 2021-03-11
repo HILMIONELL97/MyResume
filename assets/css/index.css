@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.btn {
+    background-color: burlywood;
+    padding: 2rem;
+    position: absolute;
+    left: 35rem;
+    top: 15rem;
+    border-radius: 1rem;
+}
